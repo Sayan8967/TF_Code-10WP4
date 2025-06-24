@@ -15,7 +15,7 @@ Follow the below steps to Install the Terraform and another dependency.
 
 1️⃣ Clone the repo
 
-``` git clone https://github.com/piyushsachdeva/10weeksofcloudops-week4-tf.git ```
+``` git clone https://github.com/Sayan8967/TF_Code-10WP4.git ```
 
 2️⃣ Let's install dependency to deploy the application
 
